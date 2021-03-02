@@ -1,3 +1,3 @@
 *# hey*
 
-more info
+no info
